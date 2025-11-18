@@ -19,13 +19,7 @@ A simple and lightweight web project demonstrating scroll reveal animations usin
 - CSS3 (Transitions & Keyframe animations)  
 - JavaScript (Scroll event / Intersection Observer)
 
----
 
-📸 Preview
-
-![Screenshot](img/screencapture.png)
-
----
 
 🔗 Live Demo
 
