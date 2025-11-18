@@ -23,7 +23,7 @@ A simple and lightweight web project demonstrating scroll reveal animations usin
 
 📸 Preview
 
-![Scroll Reveal Preview](img/screencapture.png)
+![Screenshot](img/screencapture.png)
 
 ---
 
