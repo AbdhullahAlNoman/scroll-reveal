@@ -29,4 +29,4 @@ A simple and lightweight web project demonstrating scroll reveal animations usin
 
 🔗 Live Demo
 
-[👉 Click here to view the project](#)
+[👉 Click here to view the project](https://abdhullahalnoman.github.io/scroll-reveal/)
